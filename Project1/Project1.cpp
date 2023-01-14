@@ -2,15 +2,12 @@
 
 #include "pch.h"
 #include "Project1.h"
-#include "Utils.h"
 #include <string>
 #include <iostream>
 #include <fstream>
 #include "GameLogic.h"
 
 #define MAX_LOADSTRING 100
-
-using namespace Utils;
 
 // Globální proměnné:
 HWND inputBox;
